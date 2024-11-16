@@ -1,0 +1,31 @@
+h1,
+h2,
+p {
+    text-align: center;
+    max-width: 500px;
+    margin: 10px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+ul,
+ol {
+    margin: 0 auto;
+    max-width: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+h1{
+    color: indianred;
+}
+
+h2{
+    background-color: yellow;
+    color: red;
+}
