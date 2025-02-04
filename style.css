@@ -21,11 +21,35 @@ img {
     max-width: 500px;
 }
 
-h1{
+h1 {
     color: indianred;
 }
 
-h2{
+h2 {
     background-color: yellow;
     color: red;
+}
+
+#heading1 {
+    border-bottom: 5px black solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#list_recipes li {
+    border: 1px black solid;
+    padding: 1em;
+}
+
+#list_recipes li:hover {
+background-color: blanchedalmond;
+}
+
+ul li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+ul {
+    padding-left: 0;
 }
